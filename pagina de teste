@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+            Biologia
+        </title>
+        <style>
+            #titulo{
+                font-size: 35px;
+                margin: 5px 5px 5px 150px;
+            }
+            #subtitulo{
+                font-size: 27px;
+                margin: 5px 5px 5px 175px;
+                font-weight: bolder;
+            }
+            .texto-normal{
+                font-size: 20px;
+                
+                
+            }
+            
+        </style>
+    </head>
+    <body>
+        <h1 id="titulo">Biologia</h1>
+        <p id="subtitulo">Zoologia</p>
+        <br>
+
+        <p>Aracnideos</p>
+        <p>Aracnídeos são um grupo de animais invertebrados representado pelas aranhas, escorpiões, opiliões, ácaros e carrapatos.</p>
+        <p>São agrupados na classe <i>Arachnida</i>, pertencente ao filo <i>Arthropoda</i>, diferindo das outras classes de artrópodes (insetos, crustáceos e etc) por não apresentarem antenas e mandíbulas e sim quelíceras, sendo assim chamados <b>quelicerados.</b></p>
+        <center>
+        <table>
+            <tr>
+                <td>
+                    <img src="https://static.todamateria.com.br/upload/55/5f/555f51e4e5c57-aracnideos-small.jpg">
+                </td>
+                <td>
+                    <img src="https://static.todamateria.com.br/upload/55/5f/555f52070492b-aracnideos-small.jpg">
+                </td>
+                <td>
+                    <img src="https://static.todamateria.com.br/upload/55/5f/555f51cdb6c24-aracnideos-small.jpg">
+                </td>
+                <td>
+                    <img src="https://static.todamateria.com.br/upload/55/5f/555f515d59b62-aracnideos-small.jpg">
+                </td>
+                <td>
+                    <img src="https://static.todamateria.com.br/upload/55/5f/555f517545d08-aracnideos-small.jpg">
+                </td>
+            </tr>
+        </table>
+        <img src="https://static.todamateria.com.br/upload/55/5f/555f76ec76bf1-aracnideos.jpg">
+    </center>
+    <p>As aranhas têm o abdome não segmentado e globuloso.</p>
+    <p>As quelíceras podem ser formadas por dois artículos paralelos entre si ou formando um ângulo, e associadas a glândulas de veneno ou não.</p>
+    <p>Apresentam fiandeiras que são apêndices abdominais modificados que segregam a seda para formar a teia.</p>
+    </body>
+
+</html>
