@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+
+            #caixa1topo{
+                background-color: red;
+                width: 1580px;
+                height: 100px;
+            }
+            #caixa2{
+                background-color: blue;
+                width: 200px;
+                height: 550px;
+            }
+            #caixa3{
+                background-color: brown;
+                width: 1580px;
+                height: 100px;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <div id="caixa1topo"></div>
+        <div id="caixa2"></div>
+        <div id="caixa3"></div>
+        <div id="caixa4"></div>
+    </body>
+</html>
