@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            *{
+                margin: 0px;
+                padding-right: 0em;
+            }
+            #caixa1{
+                background-color: gray;
+                height: 300px;
+                width: 300px;
+                padding: 50px;
+                box-sizing: border-box;
+                padding: 50px;
+                box-sizing: border-box;
+            
+            }
+            #caixa2{
+                background-color: rgb(255, 0, 0);
+                height: 300px;
+                width: 300px;
+                padding: 50px;
+                box-sizing: border-box;
+                margin: 20px
+            }
+        
+        </style>
+    </head>
+    <body>
+        
+        <div id="caixa1">
+            <p>
+                caixa 1
+            </p>
+        </div>
+        <div id="caixa2">
+            <p>
+                caixa 2
+            </p>
+        </div>
+    </body>
+
+</html>
