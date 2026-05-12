@@ -81,3 +81,36 @@ a,i {
 
 }
 
+/* Gallery */
+
+#img2{
+    background-image: url('/img/g_2.jpg');
+}
+
+#img3{
+    background-image: url('/img/g_3.jpg');
+}
+
+#img4{
+    background-image: url('/img/g_4.jpg');
+}
+
+#img5{
+    background-image: url('/img/g_5.jpg');
+}
+
+#img6{
+    background-image: url('/img/g_6.jpg');
+}   
+#gallery-container{
+    text-align: center;
+}
+
+#gallery-container, .col-12,.col-md-6{
+    margin-bottom: 25px;
+}
+
+#small-image-container,.center-image{
+    height: 250px;
+        margin-bottom: 20px;
+}
