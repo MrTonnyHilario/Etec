@@ -139,3 +139,15 @@ footer i{
     text-align: center;
     margin: 20px;
  }
+ #text{
+    border-radius: 1px;
+    background-color: #6d99bd;
+    border-bottom: 20px;
+    height: 650px;
+    width: 630px;
+    text-align: justify;
+    font-size: 18px;
+    text-indent: 2%;
+    
+
+}
