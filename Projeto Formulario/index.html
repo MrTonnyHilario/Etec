@@ -102,12 +102,66 @@
                 </datalist>
 
             </div>
+            <!-- Iput de cor-->
+            <div class="mb-4">
+                <label for="cor" class="form-label">Selecione a cor:</label>
+                <input type="color" class="form-control form-control-color" id="cor" value="#000" title="Escolha uma cor">
+            </div>
+            <!-- Selects-->
+            <div class="mb-4">
+                <label for="opcoes" class="form-label">Selecione sua:</label>
+                <select class="form-select" name="opcoes" id="opcoes" >
+                    <option disabled>Selecione uma opção</option>
+                    <option value="1">Opção 1</option>
+                    <option value="2">Opção 2</option>
+                    <option value="3">Opção 3</option>
+                    <option value="4">Opção 4</option>
 
+                </select>
+            </div>
+            <div class="mb-4">
+                <label for="opcoes" class="form-label"> Selecione as suas frutas
+                preferidas: </label>
+                    <select class="form-select" multiple>
+                        <option value="1">Maçã</option>
+                        <option value="2">Banana</option>
+                        <option value="3">Laranja</option>
+                    </select>
+                </div>
+                <!-- Checkbox e Radio Button -->
+                <div class="mb-4">
+                    <h2>Marque as opções</h2>
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" id="privacidade">
+                        <label for="privacidade" class="form-check-label">Aceitar termos de
+                        privacidade</label>
+                    </div>
+                    <div class="form-check">
+                        <input type="checkbox" class="form-check-input" id="email" checked>
+                        <label for="email" class="form-check-label">Quer receber e-mail de
+                        propaganda?</label>
+                    </div>
+                </div>
+                <div class="mb-4">
+                    <h2>Escolha a opção</h2>
+                    <div class="form-check">
+                    <input type="radio" class="form-check-input" name="meu_radio" id="a"
+                    value="a" checked>
+                    <label for="a" class="form-check-label"> Radio checado</label>
+                    </div>
+                    <div class="form-check">
+                    <input type="radio" class="form-check-input" name="meu_radio" id="b"
+                    value="b">
+                    <label for="b" class="form-check-label"> Radio para Marcar</label>
+                    </div>
+                    
+                    <input type="radio" class="form-check-input" name="meu_radio" id="c"
+                    value="c" disabled>
+                    <label for="c" class="form-check-label" > Radio desabilitado</label>
+                </div>
+            </div>
         </form>
     </div>
-    </div>
-
-
 
 
 
